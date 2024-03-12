@@ -1,1 +1,1 @@
-Noip Dns na zewnontrz
+Noip Dns hostowanie na outside
