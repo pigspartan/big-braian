@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bazy www/connect to database i config.md",
+                "file": "slop i kino 2024.01.01-2024.12.31.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bazy www/connect to database i config.md",
+                "file": "slop i kino 2024.01.01-2024.12.31.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bazy www/connect to database i config.md",
+                "file": "slop i kino 2024.01.01-2024.12.31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bazy www/connect to database i config.md"
+                "file": "slop i kino 2024.01.01-2024.12.31.md"
               }
             }
           }
@@ -151,15 +151,16 @@
   },
   "active": "d500550fbb730ced",
   "lastOpenFiles": [
-    "bazy www/praca domowa z baz.md",
-    "bazy www/connect to database i config.md",
-    "bazy www/bazy danych web.md",
-    "asm/asm panic mode.md",
+    "random aiwrzak shit.md",
     "slop i kino 2024.01.01-2024.12.31.md",
     "Untitled.md",
+    "bazy www/connect to database i config.md",
+    "testy nowej ery",
+    "bazy www/praca domowa z baz.md",
+    "bazy www/bazy danych web.md",
+    "asm/asm panic mode.md",
     "html/javascrpit/script.md",
     "html/html.md",
-    "random aiwrzak shit.md",
     "mpi_zdawańsko.md",
     "big-braian",
     "Skryptowe/mongo db part1.md",
@@ -190,7 +191,6 @@
     "materiały/Pasted image 20240117005948.png",
     "materiały/Pasted image 20240117005929.png",
     "html/zad2.html",
-    "html/kekma2.js",
     "materiały/Pasted image 20240117003731.png",
     "materiały/Pasted image 20240117003509.png",
     "asm/pentle asm.md",
