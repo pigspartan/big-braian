@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9836ed5a63c5597f",
+            "id": "d500550fbb730ced",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d500550fbb730ced",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "bazy www/connect to database i config.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "bazy www/connect to database i config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "bazy www/connect to database i config.md"
               }
             }
           }
@@ -165,22 +151,24 @@
   },
   "active": "d500550fbb730ced",
   "lastOpenFiles": [
-    "random aiwrzak shit.md",
-    "slop i kino.md",
+    "bazy www/praca domowa z baz.md",
+    "bazy www/connect to database i config.md",
+    "bazy www/bazy danych web.md",
+    "asm/asm panic mode.md",
+    "slop i kino 2024.01.01-2024.12.31.md",
     "Untitled.md",
+    "html/javascrpit/script.md",
+    "html/html.md",
+    "random aiwrzak shit.md",
     "mpi_zdawańsko.md",
     "big-braian",
     "Skryptowe/mongo db part1.md",
     "bazy www/tworzenie bazy danych.md",
     ",ne.md",
     "Skryptowe",
-    "bazy www/praca domowa z baz.md",
-    "bazy www/connect to database i config.md",
     "materiały/Pasted image 20240306224827.png",
-    "bazy www/bazy danych web.md",
     "bazy www",
     "asm/Wyklad pierwszy zrub tabelke.md",
-    "html/javascrpit/script.md",
     "java zdawansko/java synchro.md",
     "html/css podstawy.md",
     "java zdawansko/JavaThreads (1).pdf",
@@ -190,14 +178,12 @@
     "java zdawansko",
     "materiały/Pasted image 20240123010939.png",
     "materiały/Pasted image 20240123010936.png",
-    "html/html.md",
     "html.md",
     "css podstawy.md",
     "hackerman vo1/Bezpieczenstwo_Aplikacji_Internetowych.md",
     "BAIw01_02_merged.pdf",
     "asm/programowanie-niskopoziomowe.pdf",
     "asm/assembly hub.md",
-    "asm/asm panic mode.md",
     "asm/warunki asm.md",
     "materiały/Pasted image 20240117010012.png",
     "hackerman vo1/BAIw01_02_merged.pdf",
