@@ -1,0 +1,26 @@
+{
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "remotely-save:start-sync": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ]
+}

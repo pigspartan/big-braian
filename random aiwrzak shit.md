@@ -1,0 +1,1 @@
+[strona do cięcia obrazków](https://pinetools.com/split-image)
