@@ -7,7 +7,7 @@
 5. titans mage 1-5+2.5
 6. Blood Knight: Vampire Slayer jak wyjdzie !
 7. Backyard dungeon uk 1
-
+8. hipotetyczny slop
 
 
 
