@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slop i kino 2024.01.01-2024.12.31.md",
+                "file": "books/do przeczytania/to read.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slop i kino 2024.01.01-2024.12.31.md",
+                "file": "books/do przeczytania/to read.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slop i kino 2024.01.01-2024.12.31.md",
+                "file": "books/do przeczytania/to read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "slop i kino 2024.01.01-2024.12.31.md"
+                "file": "books/do przeczytania/to read.md"
               }
             }
           }
@@ -151,9 +151,21 @@
   },
   "active": "d500550fbb730ced",
   "lastOpenFiles": [
-    "random aiwrzak shit.md",
-    "slop i kino 2024.01.01-2024.12.31.md",
+    "books/do przeczytania/slop to read.md",
+    "books/do przeczytania/to read.md",
+    "books/do przeczytania",
+    "books/slop i kino 2024.01.01-2024.12.31.md",
+    "books/do przeczytania.md",
+    "books",
     "Untitled.md",
+    "java zdawansko/java main.md",
+    "java zdawansko/java synchro.md",
+    "java zdawansko/JavaThreads (1).pdf",
+    "hackerman vo1/Bezpieczenstwo_Aplikacji_Internetowych.md",
+    "hackerman vo1/BAIw01_02_merged.pdf",
+    "random aiwrzak shit.md",
+    "mpi_zdawańsko.md",
+    "języki skryptowe/mongo db part1.md",
     "bazy www/connect to database i config.md",
     "testy nowej ery",
     "bazy www/praca domowa z baz.md",
@@ -161,41 +173,30 @@
     "asm/asm panic mode.md",
     "html/javascrpit/script.md",
     "html/html.md",
-    "mpi_zdawańsko.md",
     "big-braian",
-    "Skryptowe/mongo db part1.md",
     "bazy www/tworzenie bazy danych.md",
     ",ne.md",
-    "Skryptowe",
+    "języki skryptowe",
     "materiały/Pasted image 20240306224827.png",
     "bazy www",
     "asm/Wyklad pierwszy zrub tabelke.md",
-    "java zdawansko/java synchro.md",
     "html/css podstawy.md",
-    "java zdawansko/JavaThreads (1).pdf",
     "materiały/Pasted image 20240123212155.png",
     "materiały/Pasted image 20240123212137.png",
-    "java zdawansko/java main.md",
     "java zdawansko",
     "materiały/Pasted image 20240123010939.png",
     "materiały/Pasted image 20240123010936.png",
     "html.md",
     "css podstawy.md",
-    "hackerman vo1/Bezpieczenstwo_Aplikacji_Internetowych.md",
     "BAIw01_02_merged.pdf",
-    "asm/programowanie-niskopoziomowe.pdf",
     "asm/assembly hub.md",
     "asm/warunki asm.md",
     "materiały/Pasted image 20240117010012.png",
-    "hackerman vo1/BAIw01_02_merged.pdf",
     "materiały/Pasted image 20240117005948.png",
     "materiały/Pasted image 20240117005929.png",
-    "html/zad2.html",
     "materiały/Pasted image 20240117003731.png",
     "materiały/Pasted image 20240117003509.png",
     "asm/pentle asm.md",
-    "asm/Untitled.md",
-    "AIwrzka5.md",
     "Untitled.canvas"
   ]
 }
