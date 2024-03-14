@@ -63,4 +63,11 @@ usuwanie
 ```jsx
 //usuwasz pierwszy spelniajoncy warunek/ deleteMany exists
 db.posts.deleteOne({ title: "Post Title 5" })
+
+```
+indexowanie pul
+```jsx
+db.nazwakol.createIndex({nr:1}) // nr to nazwa pola 1 morzna z,ienic na "text"
+
+
 ```
