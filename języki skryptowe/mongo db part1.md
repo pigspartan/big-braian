@@ -6,7 +6,7 @@ use <nazwa>
 tworzenie kolekcji(tabela)
 db.createCollection("<nazwa>")
 ```
-dodawanie jednego elementu
+dodawanie jednego elementu(dokumentu)
 ```jsx
 db.posts.insertOne({
   title: "Post Title 1",
