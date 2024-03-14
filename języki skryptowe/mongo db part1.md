@@ -8,7 +8,7 @@ db.createCollection("<nazwa>")
 ```
 dodawanie jednego elementu(dokumentu)
 ```jsx
-db.posts.insertOne({
+db.nazwakol.insertOne({
   title: "Post Title 1",
   body: "Body of post.",
   category: "News",
@@ -20,7 +20,7 @@ db.posts.insertOne({
 ```
 dodawanie wielu
 ```jsx
-db.posts.insertMany([  
+db.nazwakol.insertMany([  
   {
     title: "Post Title 2",
     body: "Body of post.",
@@ -42,11 +42,11 @@ db.posts.insertMany([
 znajdowanie
 ```jsx
 //wyświelta wszystko
-db.posts.find()
+db.nazwakol.find()
 //warunkie z warunkiem
-db.posts.find( {category: "News"} ) //w category jest news
-db.posts.find( {title:{$regex:"c"}} ) //zawiera c
-db.posts.find( {title:{$not:{$regex:"c"}}} ) //nie zawiera c
+db.nazwakol.find( {category: "News"} ) //w category jest news
+db.nazwakol.find( {title:{$regex:"c"}} ) //zawiera c
+db.nazwakol.find( {title:{$not:{$regex:"c"}}} ) //nie zawiera c
 // quantity(pole) większe niż 20
 db.inventory.find( { quantity: { $gt: 20 } } )
 
