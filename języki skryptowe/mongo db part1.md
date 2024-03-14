@@ -57,7 +57,7 @@ update
 //pierszy nawiaj warunek wybierający jak nic nie dasz to morze stworzyc sobie nowy document(element tabeli)
 //drugi to nawias to to co chcemy zrobic $set dodaje/updatuje pole $unset je usuwa
 // { upsert: true } pozwala komendzie na dodawanie nowych pul
-db.posts.updateOne( { title: "Post Title 1" }, { $set: { likes: 2 } } ) 
+db.nazwakol.updateOne( { title: "Post Title 1" }, { $set: { likes: 2 } } ) 
 ```
 usuwanie 
 ```jsx
