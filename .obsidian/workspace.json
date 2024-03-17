@@ -13,14 +13,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/do przeczytania/to read.md",
+                "file": "asm/Wyklad pierwszy zrub tabelke.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c955b830f914fb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gaming list do posortowania.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a56a8a9abaadf857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projekty/projekty index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b563dccc404713cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projekty/slelfhost.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe3f0d115249c484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "projekty/manga selfhost.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -86,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/do przeczytania/to read.md",
+                "file": "projekty/manga selfhost.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/do przeczytania/to read.md",
+                "file": "projekty/manga selfhost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/do przeczytania/to read.md"
+                "file": "projekty/manga selfhost.md"
               }
             }
           }
@@ -149,54 +202,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d500550fbb730ced",
+  "active": "fe3f0d115249c484",
   "lastOpenFiles": [
+    "projekty/projekty index.md",
+    "projekty/manga selfhost.md",
+    "projekty/slelfhost.md",
+    "gaming list do posortowania.md",
+    "mpi_zdawańsko.md",
+    "bazy www/tworzenie bazy danych.md",
+    "bazy www/praca domowa z baz.md",
+    "bazy www/connect to database i config.md",
+    "bazy www/bazy danych web.md",
+    "random aiwrzak shit.md",
+    "asm/Wyklad pierwszy zrub tabelke.md",
+    "asm/warunki asm.md",
+    "projekty",
+    "books/czytansko 2024.01.01-2024.12.31.md",
     "books/do przeczytania/slop to read.md",
+    "SkinTakerMichellePav21.epub",
+    "Untitled.md",
+    "java zdawansko/JavaThreads (1).pdf",
     "books/do przeczytania/to read.md",
-    "books/slop i kino 2024.01.01-2024.12.31.md",
+    "books/do przeczytania/Untitled",
+    "języki skryptowe/mongo db part1.md",
     "books/do przeczytania",
     "books/do przeczytania.md",
     "books",
-    "Untitled.md",
     "java zdawansko/java main.md",
     "java zdawansko/java synchro.md",
-    "java zdawansko/JavaThreads (1).pdf",
     "hackerman vo1/Bezpieczenstwo_Aplikacji_Internetowych.md",
     "hackerman vo1/BAIw01_02_merged.pdf",
-    "random aiwrzak shit.md",
-    "mpi_zdawańsko.md",
-    "języki skryptowe/mongo db part1.md",
-    "bazy www/connect to database i config.md",
     "testy nowej ery",
-    "bazy www/praca domowa z baz.md",
-    "bazy www/bazy danych web.md",
     "asm/asm panic mode.md",
     "html/javascrpit/script.md",
     "html/html.md",
     "big-braian",
-    "bazy www/tworzenie bazy danych.md",
     ",ne.md",
     "języki skryptowe",
     "materiały/Pasted image 20240306224827.png",
-    "bazy www",
-    "asm/Wyklad pierwszy zrub tabelke.md",
     "html/css podstawy.md",
     "materiały/Pasted image 20240123212155.png",
     "materiały/Pasted image 20240123212137.png",
-    "java zdawansko",
     "materiały/Pasted image 20240123010939.png",
     "materiały/Pasted image 20240123010936.png",
-    "html.md",
-    "css podstawy.md",
-    "BAIw01_02_merged.pdf",
-    "asm/assembly hub.md",
-    "asm/warunki asm.md",
     "materiały/Pasted image 20240117010012.png",
     "materiały/Pasted image 20240117005948.png",
     "materiały/Pasted image 20240117005929.png",
     "materiały/Pasted image 20240117003731.png",
     "materiały/Pasted image 20240117003509.png",
-    "asm/pentle asm.md",
     "Untitled.canvas"
   ]
 }

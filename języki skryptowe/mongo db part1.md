@@ -62,7 +62,7 @@ db.nazwakol.updateOne( { title: "Post Title 1" }, { $set: { likes: 2 } } )
 usuwanie 
 ```jsx
 //usuwasz pierwszy spelniajoncy warunek/ deleteMany exists
-db.posts.deleteOne({ title: "Post Title 5" })
+db.nazwakol.deleteOne({ title: "Post Title 5" })
 
 ```
 indexowanie pul

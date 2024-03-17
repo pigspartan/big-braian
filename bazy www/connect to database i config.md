@@ -1,6 +1,6 @@
 wiberamy z listy typ servera 
 1. servername sklada sie z nazwy hosta i nazwy instancji sql 'nazwahosta\\nazwainstancji'  
-2. wybieramy sql erver auth i konto login: sa  haslo: jak ustawione 
+2. wybieramy sql server auth i konto login: sa  haslo: jak ustawione 
 #### config
 1. wejdz w computer menegment 
 2. sql server config meneger

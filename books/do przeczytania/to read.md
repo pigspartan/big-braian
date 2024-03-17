@@ -1,2 +1,0 @@
-1. [In Plain Sight](https://www.goodreads.com/book/show/43065169-in-plain-sight) When a magical plague is released in a Depression-era New York soup kitchen, private detective Alex Lockerby finds himself in a desperate hunt to catch a madman before he can strike again.
-2. [The Emperor's Blades](https://www.goodreads.com/book/show/17910124-the-emperor-s-blades) 
