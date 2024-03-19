@@ -1,0 +1,23 @@
+1. zmiana bazy 
+use baza(master)
+go
+use nazwa bazy 
+go 
+2.tworzenie tabeli 
+CREATE TABLE nazwa
+(
+		ID INT IDENTITY(1,1) 
+		not null PRIMARY KEY,
+		NAZWISKO VARCHAR(30),
+		IMIE WARCHAR(30)
+)
+		
+3. wybieranie z poza tablicy 
+select * nolmalny dba tabela
+
+4. dodawanie klucza obcego
+fieldname type References tabname(fieldname)
+5. dodawanie danych
+edit top x
+
+ 
