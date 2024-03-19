@@ -5,10 +5,12 @@ use nazwa bazy
 go 
 2.tworzenie tabeli 
 CREATE TABLE nazwa
-	(ID INT IDENTITY(1,1) 
+(
+		ID INT IDENTITY(1,1) 
 		not null PRIMARY KEY,
-	NAZWISKO VARCHAR(30),
-IMIE WARCHAR(30))
+		NAZWISKO VARCHAR(30),
+		IMIE WARCHAR(30)
+)
 		
 3. wybieranie z poza tablicy 
 select * nolmalny dba tabela
