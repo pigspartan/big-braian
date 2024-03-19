@@ -15,4 +15,9 @@ CREATE TABLE nazwa
 3. wybieranie z poza tablicy 
 select * nolmalny dba tabela
 
+4. dodawanie klucza obcego
+fieldname type References tabname(fieldname)
+5. dodawanie danych
+edit top x
+
  
