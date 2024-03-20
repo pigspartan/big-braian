@@ -89,12 +89,9 @@
             "id": "1ff8a918e1752b1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "work work work/obiektowe/wzorce.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "obiektówka hasło po/Wykład z PO - temat 01.pdf"
               }
             }
           }
@@ -165,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "work work work/obiektowe/wzorce.md",
+                "file": "obiektówka hasło po/Wykład z PO - temat 01.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "work work work/obiektowe/wzorce.md",
+                "file": "obiektówka hasło po/Wykład z PO - temat 01.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work work work/obiektowe/wzorce.md"
+                "file": "obiektówka hasło po/Wykład z PO - temat 01.pdf"
               }
             }
           }
@@ -230,8 +227,8 @@
   },
   "active": "1ff8a918e1752b1d",
   "lastOpenFiles": [
-    "work work work/php/php todo.md",
     "work work work/obiektowe/wzorce.md",
+    "work work work/php/php todo.md",
     "work work work/obiektowe",
     "work work work/php",
     "projekty/manga selfhost.md",
