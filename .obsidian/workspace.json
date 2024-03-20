@@ -71,9 +71,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a77ef8c8e4b685f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work work work/php/php todo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ff8a918e1752b1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "work work work/obiektowe/wzorce.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -139,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projekty/manga selfhost.md",
+                "file": "work work work/obiektowe/wzorce.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projekty/manga selfhost.md",
+                "file": "work work work/obiektowe/wzorce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projekty/manga selfhost.md"
+                "file": "work work work/obiektowe/wzorce.md"
               }
             }
           }
@@ -202,10 +228,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe3f0d115249c484",
+  "active": "1ff8a918e1752b1d",
   "lastOpenFiles": [
-    "books/czytansko 2024.01.01-2024.12.31.md",
+    "work work work/php/php todo.md",
+    "work work work/obiektowe/wzorce.md",
+    "work work work/obiektowe",
+    "work work work/php",
     "projekty/manga selfhost.md",
+    "work work work",
+    "sql nowe",
+    "bazy www/tworzenie tabeli",
+    "books/czytansko 2024.01.01-2024.12.31.md",
     "projekty/projekty index.md",
     "projekty/slelfhost.md",
     "gaming list do posortowania.md",
@@ -227,20 +260,13 @@
     "języki skryptowe/mongo db part1.md",
     "books/do przeczytania",
     "books/do przeczytania.md",
-    "books",
     "java zdawansko/java main.md",
     "java zdawansko/java synchro.md",
     "hackerman vo1/Bezpieczenstwo_Aplikacji_Internetowych.md",
-    "hackerman vo1/BAIw01_02_merged.pdf",
-    "testy nowej ery",
     "asm/asm panic mode.md",
     "html/javascrpit/script.md",
     "html/html.md",
-    "big-braian",
-    ",ne.md",
-    "języki skryptowe",
     "materiały/Pasted image 20240306224827.png",
-    "html/css podstawy.md",
     "materiały/Pasted image 20240123212155.png",
     "materiały/Pasted image 20240123212137.png",
     "materiały/Pasted image 20240123010939.png",
