@@ -89,9 +89,12 @@
             "id": "1ff8a918e1752b1d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "obiektówka hasło po/Wykład z PO - temat 01.pdf"
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -162,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obiektówka hasło po/Wykład z PO - temat 01.pdf",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obiektówka hasło po/Wykład z PO - temat 01.pdf",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obiektówka hasło po/Wykład z PO - temat 01.pdf"
+                "file": "Untitled.md"
               }
             }
           }
@@ -225,19 +228,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1ff8a918e1752b1d",
+  "active": "573feb8aa4ea29e6",
   "lastOpenFiles": [
+    "work work work/php/zadanie1.dart",
+    "projekty/slelfhost.md",
+    "zadanie1.dart",
+    "projekty/manga selfhost.md",
+    "obiektówka hasło po/Wykład z PO - temat 01.pdf",
     "work work work/obiektowe/wzorce.md",
     "work work work/php/php todo.md",
     "work work work/obiektowe",
     "work work work/php",
-    "projekty/manga selfhost.md",
     "work work work",
     "sql nowe",
     "bazy www/tworzenie tabeli",
     "books/czytansko 2024.01.01-2024.12.31.md",
     "projekty/projekty index.md",
-    "projekty/slelfhost.md",
     "gaming list do posortowania.md",
     "mpi_zdawańsko.md",
     "bazy www/tworzenie bazy danych.md",
@@ -253,16 +259,13 @@
     "Untitled.md",
     "java zdawansko/JavaThreads (1).pdf",
     "books/do przeczytania/to read.md",
-    "books/do przeczytania/Untitled",
     "języki skryptowe/mongo db part1.md",
-    "books/do przeczytania",
     "books/do przeczytania.md",
     "java zdawansko/java main.md",
     "java zdawansko/java synchro.md",
     "hackerman vo1/Bezpieczenstwo_Aplikacji_Internetowych.md",
     "asm/asm panic mode.md",
     "html/javascrpit/script.md",
-    "html/html.md",
     "materiały/Pasted image 20240306224827.png",
     "materiały/Pasted image 20240123212155.png",
     "materiały/Pasted image 20240123212137.png",
