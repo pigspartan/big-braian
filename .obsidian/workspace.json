@@ -4,102 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ed914c3056db589f",
+        "id": "cf3994ed90d3393f",
         "type": "tabs",
         "children": [
           {
-            "id": "d500550fbb730ced",
+            "id": "95dfac6525fba86b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asm/Wyklad pierwszy zrub tabelke.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c955b830f914fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gaming list do posortowania.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a56a8a9abaadf857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projekty/projekty index.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b563dccc404713cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projekty/slelfhost.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe3f0d115249c484",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projekty/manga selfhost.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a77ef8c8e4b685f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work work work/php/php todo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ff8a918e1752b1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "bazy www/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "bazy www/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "bazy www/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "bazy www/Untitled.md"
               }
             }
           }
@@ -228,44 +149,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "573feb8aa4ea29e6",
+  "active": "95dfac6525fba86b",
   "lastOpenFiles": [
-    "work work work/php/zadanie1.dart",
+    "bazy www/praca domowa z baz.md",
+    "bazy www/Untitled.md",
+    "materiały/Pasted image 20240416015057.png",
+    "bazy www/tworzenie bazy danych.md",
+    "bazy www/connect to database i config.md",
+    "bazy www/bazy danych web.md",
+    "books/czytansko 2024.01.01-2024.12.31.md",
+    "books/do przeczytania/slop to read.md",
+    "html/javascrpit/script.md",
+    "asm/Wyklad pierwszy zrub tabelke.md",
+    "gaming list do posortowania.md",
+    "projekty/projekty index.md",
     "projekty/slelfhost.md",
-    "zadanie1.dart",
     "projekty/manga selfhost.md",
+    "work work work/php/php todo.md",
+    "work work work/php/zadanie1.dart",
+    "zadanie1.dart",
     "obiektówka hasło po/Wykład z PO - temat 01.pdf",
     "work work work/obiektowe/wzorce.md",
-    "work work work/php/php todo.md",
     "work work work/obiektowe",
     "work work work/php",
     "work work work",
     "sql nowe",
     "bazy www/tworzenie tabeli",
-    "books/czytansko 2024.01.01-2024.12.31.md",
-    "projekty/projekty index.md",
-    "gaming list do posortowania.md",
     "mpi_zdawańsko.md",
-    "bazy www/tworzenie bazy danych.md",
-    "bazy www/praca domowa z baz.md",
-    "bazy www/connect to database i config.md",
-    "bazy www/bazy danych web.md",
     "random aiwrzak shit.md",
-    "asm/Wyklad pierwszy zrub tabelke.md",
     "asm/warunki asm.md",
     "projekty",
-    "books/do przeczytania/slop to read.md",
     "SkinTakerMichellePav21.epub",
     "Untitled.md",
-    "java zdawansko/JavaThreads (1).pdf",
     "books/do przeczytania/to read.md",
     "języki skryptowe/mongo db part1.md",
     "books/do przeczytania.md",
     "java zdawansko/java main.md",
     "java zdawansko/java synchro.md",
     "hackerman vo1/Bezpieczenstwo_Aplikacji_Internetowych.md",
-    "asm/asm panic mode.md",
-    "html/javascrpit/script.md",
     "materiały/Pasted image 20240306224827.png",
     "materiały/Pasted image 20240123212155.png",
     "materiały/Pasted image 20240123212137.png",
@@ -275,7 +196,6 @@
     "materiały/Pasted image 20240117005948.png",
     "materiały/Pasted image 20240117005929.png",
     "materiały/Pasted image 20240117003731.png",
-    "materiały/Pasted image 20240117003509.png",
     "Untitled.canvas"
   ]
 }
