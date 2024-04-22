@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bazy www/kolos.md",
+                "file": "gaming list do posortowania.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bazy www/kolos.md",
+                "file": "gaming list do posortowania.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bazy www/kolos.md",
+                "file": "gaming list do posortowania.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bazy www/kolos.md"
+                "file": "gaming list do posortowania.md"
               }
             }
           }
@@ -151,9 +151,10 @@
   },
   "active": "95dfac6525fba86b",
   "lastOpenFiles": [
+    "Untitled.md",
+    "bazy www/kolos.md",
     "bazy www/Untitled.md",
     "bazy www/tworzenie bazy danych.md",
-    "bazy www/kolos.md",
     "bazy www/praca domowa z baz.md",
     "materiały/Pasted image 20240416015057.png",
     "bazy www/connect to database i config.md",
@@ -181,7 +182,6 @@
     "asm/warunki asm.md",
     "projekty",
     "SkinTakerMichellePav21.epub",
-    "Untitled.md",
     "books/do przeczytania/to read.md",
     "języki skryptowe/mongo db part1.md",
     "books/do przeczytania.md",
