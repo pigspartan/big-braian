@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gaming list do posortowania.md",
+                "file": "rf.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gaming list do posortowania.md",
+                "file": "rf.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gaming list do posortowania.md",
+                "file": "rf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gaming list do posortowania.md"
+                "file": "rf.md"
               }
             }
           }
@@ -151,7 +151,13 @@
   },
   "active": "95dfac6525fba86b",
   "lastOpenFiles": [
+    "sql nowe.md",
+    "testy nowej ery.md",
+    "rf.md",
     "Untitled.md",
+    "random aiwrzak shit.md",
+    "mpi_zdawańsko.md",
+    "gaming list do posortowania.md",
     "bazy www/kolos.md",
     "bazy www/Untitled.md",
     "bazy www/tworzenie bazy danych.md",
@@ -163,7 +169,6 @@
     "books/do przeczytania/slop to read.md",
     "html/javascrpit/script.md",
     "asm/Wyklad pierwszy zrub tabelke.md",
-    "gaming list do posortowania.md",
     "projekty/projekty index.md",
     "projekty/slelfhost.md",
     "projekty/manga selfhost.md",
@@ -177,17 +182,12 @@
     "work work work",
     "sql nowe",
     "bazy www/tworzenie tabeli",
-    "mpi_zdawańsko.md",
-    "random aiwrzak shit.md",
     "asm/warunki asm.md",
     "projekty",
     "SkinTakerMichellePav21.epub",
     "books/do przeczytania/to read.md",
     "języki skryptowe/mongo db part1.md",
     "books/do przeczytania.md",
-    "java zdawansko/java main.md",
-    "java zdawansko/java synchro.md",
-    "hackerman vo1/Bezpieczenstwo_Aplikacji_Internetowych.md",
     "materiały/Pasted image 20240306224827.png",
     "materiały/Pasted image 20240123212155.png",
     "materiały/Pasted image 20240123212137.png",
